@@ -1,6 +1,7 @@
 sum = 723.67
+sum2 = str(sum)
 multiple = bool(True)
-c=float('Original sum: $'+str(sum))
+c=float('Original sum: $' + sum2)
 if (int(c//100) > 1):
     multiple = True
 x = (int(c//100), " x $100 bills") if multiple else (int(c//100), " x $100 bill")
