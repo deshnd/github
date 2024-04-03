@@ -1,0 +1,76 @@
+question-1:
+<div class="assignment-head" id="tense-pronoun-verb">
+                                    <div id="tense-input"></div>
+                    <div id="mode-input" class="ghost hidden"></div>
+                    <div id="pronoun-input">vous</div>
+                    <div id="verb-input">marcher</div>
+                            </div>
+hint-1:
+<div class="verb-hint__table">
+                                                                                    <div>
+                        <p class="p--big op--025">je</p>
+                        <h3 class="p--big fw--bold">marche</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">nous</p>
+                        <h3 class="p--big fw--bold">marchons</h3>
+                    </div>
+                                                                                                <div>
+                        <p class="p--big op--025">tu</p>
+                        <h3 class="p--big fw--bold">marches</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">vous</p>
+                        <h3 class="p--big fw--bold">marchez</h3>
+                    </div>
+                                                                                                <div>
+                        <p class="p--big op--025">il / elle / on</p>
+                        <h3 class="p--big fw--bold">marche</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">ils / elles</p>
+                        <h3 class="p--big fw--bold">marchent</h3>
+                    </div>
+                    
+            </div>
+
+question-2:
+<div class="assignment-head" id="tense-pronoun-verb">
+                                    <div id="tense-input"></div>
+                    <div id="mode-input" class="ghost hidden"></div>
+                    <div id="pronoun-input">on</div>
+                    <div id="verb-input">remplir</div>
+                            </div>
+hint-2:
+<div class="verb-hint__table">
+                                                                                    <div>
+                        <p class="p--big op--025">je</p>
+                        <h3 class="p--big fw--bold">remplis</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">nous</p>
+                        <h3 class="p--big fw--bold">remplissons</h3>
+                    </div>
+                                                                                                <div>
+                        <p class="p--big op--025">tu</p>
+                        <h3 class="p--big fw--bold">remplis</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">vous</p>
+                        <h3 class="p--big fw--bold">remplissez</h3>
+                    </div>
+                                                                                                <div>
+                        <p class="p--big op--025">il / elle / on</p>
+                        <h3 class="p--big fw--bold">remplit</h3>
+                    </div>
+                                                                <div>
+                        <p class="p--big op--025">ils / elles</p>
+                        <h3 class="p--big fw--bold">remplissent</h3>
+                    </div>
+                    
+            </div>
+
+
+SCRIPT TO ACCESS INPUT WHILE HINT SCREEN IS OPEN:
+var inputElement = document.getElementById('assignment-answer-input');
+inputElement.value = "{VALUE}";
