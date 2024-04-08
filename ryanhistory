@@ -1,0 +1,1000 @@
+  388  cd www
+  389  ls
+  390  ./setPermissions.sh
+  391  cd
+  392  cd Digital Portfolio
+  393  cd 'Digital Portfolio'/
+  394  cd 'CS-I/
+  395  cd 'CS-I
+  396  cd 'CS-L
+  397  cd 'CS-I'
+  398  cd 'Journals'/
+  399  emacs J1006.html
+  400  ls
+  401  index.html
+  402  emacs index.html
+  403  cd 'CS-I'/
+  404  cd
+  405  cd 'Digital Portfolio'/
+  406  cd 'CS-I'/
+  407  emacs index.html
+  408  cd Journals/
+  409  emacs J1006.html
+  410  fg 1
+  411  merlin list
+  412  cd
+  413  cd Journals/
+  414  cd 'CS-I'/
+  415  cd
+  416  cd Journals/
+  417  cd CS-l
+  418  cd CS-I
+  419  cd CS-1
+  420  clear
+  421  cd
+  422  merlin list
+  423  merlin help
+  424  clear
+  425  mkdir Merlin
+  426  cd Merlin
+  427  merlin list
+  428  ls
+  429  merlin prepare
+  430  ls
+  431  cd M1008-10
+  432  cd M1008-10\ \(01\)\ Basic\ Addition/
+  433  merlin mission accept
+  434  merlin list
+  435  merlin prepare
+  436  ls
+  437  cd C100\ Basic\ Addition\ I\ \[Evaluation\]/
+  438  ls
+  439  merlin prepare
+  440  s
+  441  ls
+  442  cat evaluations.txt
+  443  cat instructions.txt
+  444  emacs answers.txt questions.txt
+  445  test
+  446  john-williams@codermerlin:~$ merlin test --show-invisibles
+  447  merlin test --show-invisibles
+  448  merlin test --show-line-numbers
+  449  merlin submit
+  450  list
+  451  merlin list
+  452  merlin mission complete
+  453  cd
+  454  pwd
+  455  cd /Merlin/M1008-10 (01) Basic Addition/C100 Basic Addition I 
+  456  cd ~/Merlin/M1008-10 (01) Basic Addition/C100 Basic Addition I [Evaluation]$
+  457  cd ~/Merlin/M1008-10 (01) Basic Addition/C100 Basic Addition I [Evaluation]
+  458  cd Merlin
+  459  merlin list
+  460  cd M1009-10
+  461  cd M1008-10
+  462  cd M1008-10\ \(01\)\ Basic\ Addition/
+  463  merlin mission accept
+  464  merlin list
+  465  merlin prepare
+  466  ls
+  467  cd C110 Basic Addition II [Evaluation] 
+  468  cd C110\ Basic\ Addition\II\ Evaluation/
+  469  cd C110\ Basic\ Addition\ II\ \[Evaluation\]/
+  470  ls
+  471  merlin prepare
+  472  cat evaluations.txt
+  473  cat instructions.txt
+  474  emacs answers.txt questions.txt
+  475  merlin test --show-invisibles
+  476  merlin test --show-line-numbers
+  477  merlin submit
+  478  cd ...
+  479  cd
+  480  merlin
+  481  merlin help
+  482  merlin lis
+  483  mkdir Merlin
+  484  cd Merlin
+  485  merlin list
+  486  ls
+  487  merlin prepare
+  488  ls
+  489  cd M1008-10\ \(01\)\ Basic\ Addition/
+  490  cd M1008-10\ (01)\ Basic\ Addition/
+  491  merlin list
+  492  merlin prepare
+  493  ls
+  494  ┌──────────────────────────────────────────┬──────────┬────────┬───────────┬──────────┬──────────┬─────────────┐
+  495  │ Challenge                                │ Required │ Earned │ Available │ Original │ Attempts │ Eligibility │
+  496  │ C100 Basic Addition I [Evaluation]       │ Required │     10 │ 9         │       10 │ 1 / 5    │ Eligible    │
+  497  │ C110 Basic Addition II [Evaluation]      │ Required │     10 │ 9         │       10 │ 1 / 5    │ Eligible    │
+  498  │ C900 Basic Addition Summary [Evaluation] │ Required │      0 │ 30        │       30 │ 0 / 5    │ Eligible    │
+  499  │ TOTAL                                    │          │     20 │           │       50 │ 40%      │             │
+  500  └──────────────────────────────────────────┴──────────┴────────┴───────────┴──────────┴──────────┴───────────
+  501  cd C900\ Basic\ Addition\ SummaryI\ \[Evaluation\]/
+  502  cd C900\ Basic\ Addition\ Summary\ \[Evaluation\]/
+  503  ls
+  504  merlin prepare
+  505  cat evaluations.txt
+  506  cat instructions.txt
+  507  emacs answers.txt questions.txt
+  508  merlin test --show-invisibles
+  509  merlin test --show-line-numbers
+  510  emacs answers.txt questions.txt
+  511  cd
+  512  cd Merlin
+  513  merlin submit
+  514  ls
+  515  merlin prepare
+  516  cd M1008-10\ \(01\)\ Basic\ Addition/
+  517  merlin submit
+  518  ls
+  519  cd C900\ Basic\ Addition\ Summary\ \[Evaluation\]/
+  520  cd Merlin
+  521  cd M1008-10\ \(01\)\ Basic\ Addition/
+  522  cd
+  523  cd M1008-10\ \(01\)\ Basic\ Addition/
+  524  cd Merlin
+  525  ls
+  526  merlin prepare
+  527  ls
+  528  cd M1008-10\ \(01\)\ Basic\ Addition/
+  529  merlin mission complete
+  530  ls
+  531  cd C900\ Basic\ Addition\ Summary\ \[Evaluation\]/
+  532  merlin sumbit
+  533  merlin submit
+  534  cd M1008-10\ \(01\)\ Basic\ Addition/
+  535  cd
+  536  cd Merlin
+  537  cd M1008-10\ \(01\)\ Basic\ Addition/
+  538  merlin mission complete
+  539  cd
+  540  cd Merlin
+  541  merlin list
+  542  cd M1008-10\ \(01\)\ Basic\ Addition/
+  543  merlin list
+  544  cd
+  545  cd Merlin
+  546  merlin list
+  547  ls
+  548  merlin prepare
+  549  ls
+  550  cd M1011-10\ \(01\)\ Number\ Systems/
+  551  merlin mission accept
+  552  merlin lsit
+  553  merlin list
+  554  merlin prepare
+  555  ls
+  556  cd C100\ Octal\ to\ Decimal\ \[Evaluation\]/
+  557  ls
+  558  merlin prepare
+  559  cat evaluations.txt
+  560  cat instructions.txt
+  561  emacs answers.txt questions.txt
+  562  fg 1
+  563  emacs answers.txt questions.txt
+  564  merlin test --show-invisibles
+  565  merlin test --show-line-numbers
+  566  merlin submit
+  567  cd
+  568  cd Merlin
+  569  merlin lsit
+  570  merlin list\
+  571  merlin list
+  572  ls
+  573  merlin prepare
+  574  ls
+  575  cd M1011-10\ \(01\)\ Number\ Systems/
+  576  merlin list
+  577  merlin prepare
+  578  ls
+  579  cd cd C110\ Hexadecimal\ to\ Decimal\ \[Evaluation\]/
+  580  cd C110\ Hexadecimal\ to\ Decimal\ \[Evaluation\]/
+  581  ls
+  582  merlin prepare
+  583  cat evaluations.txt
+  584  emacs answers.txt questions.txt
+  585  emacs answers.txt question.txt
+  586  emacs answers.txt questions.txt
+  587  merlin test --show-invisibles
+  588  merlin test --show-line-numbers
+  589  merlin submit
+  590  cd merlin
+  591  cd
+  592  cd merlin
+  593  cd Merlin
+  594  ls
+  595  merlin prepare
+  596  ls
+  597  cd M1011-10\ \(01\)\ Number\ Systems/
+  598  merlin list
+  599  cd C120\ Binary\ to\ Decimal\ \[Evaluation\]/
+  600  merlin prepaer
+  601  merlin prepare
+  602  emacs answers.txt questions.txt
+  603  merlin test --show-invisibles
+  604  merlin test --show-line-numbers
+  605  emacs answers.txt questions.txt
+  606  merlin test --show-invisibles
+  607  merlin test --show-line-numbers
+  608  merlin submit
+  609  cd M1011-10\ \(01\)\ Number\ Systems/
+  610  cd
+  611  cd Merlin
+  612  merlin list
+  613  ls
+  614  merlin prepare
+  615  ls
+  616  cd M1011-10\ \(01\)\ Number\ Systems/
+  617  merlin list
+  618  cd C200\ Decimal\ to\ Octal\ \ [Evaluation\]/
+  619  cd C200\ Decimal\ to\ Octal\ \[Evaluation\]/
+  620  ls
+  621  merlin prepare
+  622  emacs answers.txt questions.txt
+  623  [200~emacs answers.txt questions.txt~
+  624  emacs answers.txt questions.txt
+  625  fg 1
+  626  emacs answers.txt questions.txt
+  627  merlin test --show-invisibles
+  628  merlin test --show-line-numbers
+  629  emacs answers.txt questions.txt
+  630  merlin test --show-invisibles
+  631  merlin test --show-line-numbers
+  632  merlin submit
+  633  cd Merlin
+  634  cd
+  635  cd Merlin
+  636  merlin list
+  637  ls
+  638  merlin prepare
+  639  cd M1011-10\ \(01\)\ Number\ Systems/
+  640  merlin list
+  641  merlin prepare
+  642  ls
+  643  cd C210\ Decimal\ to\ Hexadecimal\ \[Evaluation\]/
+  644  ls
+  645  merlin prepare
+  646  emacs answers.txt questions.txt
+  647  merlin test --show-invisibles
+  648  merlin test --show-line-numbers
+  649  merlin submit
+  650  cd
+  651  cd merlin
+  652  cd Melrin
+  653  cd Merlin
+  654  merlin list
+  655  ls
+  656  merlin prepare
+  657  ls
+  658  cd M1011-10\ \(01\)\ Number\ Systems/
+  659  merlin list
+  660  merlin prepare
+  661  ls
+  662  emacs answers.txt questions.txt
+  663  cd 220\ Decimal\ to\ Binary\ \[Evaluation\]/
+  664  cd 220\Decimal\ to\Binary\ \[Evaluation\]/
+  665  cd 220\ Decimal\ to\ Binary\ \[Evaluation\]/
+  666  cd C220\ Decimal\ to\ Binary\ \[Evaluation\]/
+  667  ls
+  668  merlin prepare
+  669  emacs answers.txt questions.txt
+  670  merlin test --show-invisibles
+  671  merlin test --show-line-numbers
+  672  emacs answers.txt questions.txt
+  673  [200~emacs answers.txt questions.txt
+  674  ~
+  675  emacs answers.txt questions.txt
+  676  merlin test --show-invisibles
+  677  merlin test --show-line-numbers
+  678  merlin sumbit
+  679  merlin submit
+  680  cd 
+  681  cd Merlin
+  682  merlin list
+  683  ls
+  684  merlin prepare
+  685  ls
+  686  cd M1011-10\ \(01\)\ Number\ Systems/
+  687  merlin list
+  688  merlin perpare
+  689  merlin prepare
+  690  ls
+  691  cd C900\ Bases\ to\ Decimal\ Summary\ \[Evaluation\]/
+  692  ls
+  693  merlin prepare
+  694  emacs answers.txt questions.txt
+  695  merlin test --show-invisibles
+  696  merlin test --show-line-numbers
+  697  merlin submit
+  698  │   52,652       │   ✓ Match      │    52,652       │
+  699  │ 
+  700  │   20,914       │   ✓ Match      │    20,914       │
+  701  emacs answers.txt questions.txt
+  702  merlin submit
+  703  cd
+  704  cd Merlin
+  705  ls
+  706  merlin prepare
+  707  cd M1011-10\ \(01\)\ Number\ Systems/
+  708  merlin lsit
+  709  merlin list
+  710  merlin prepare
+  711  ls
+  712  cd C910\ Decimals\ to\ Bases\ Summary\ \[Evaluation\]/
+  713  cd C910\ Decimal\ to\ Bases\ \[Evaluation\]/
+  714  cd\ C910\ Decimal\ To\ Bases\ Summary\ \[Evaluation\]
+  715  cd C910\ Decimal\ to\ Bases\ Summary\ \[Evaluation\]
+  716  cd C910\ Decimal\ To\ Bases\ Summary\ \[Evaluation\]
+  717  ls
+  718  merlin prepare
+  719  emacs answers.txt questions.txt
+  720  cd
+  721  cd C910\ Decimal\ To\ Bases\ Summary\ \[Evaluation\]
+  722  cd Merlin
+  723  cd C910\ Decimal\ To\ Bases\ Summary\ \[Evaluation\]
+  724  ls
+  725  merlin prepare
+  726  ls
+  727  cd M1011-10\ \(01\)\ Number\ Systems/
+  728  merlin prepare
+  729  ls
+  730  cd C910\ Decimal\ To\ Bases\ Summary\ \[Evaluation\]
+  731  merlin prepare
+  732  ryan-ng@codermerlin:~/Merlin/M1011-10 (01) Number Systems/C910 Decimal To Bases Summary [Evaluation]$ merlin prepare
+  733  emacs answers.txt questions.txt
+  734  merlin submit
+  735  cd
+  736  cd Merlin
+  737  merlin prepare
+  738  cd M1011-10\ \(01\)\ Number\ Systems/
+  739  merlin prepare
+  740  merlin mission complete
+  741  cd Merlin
+  742  cd
+  743  cd Merlin
+  744  merlin prepare
+  745  cd
+  746  clear
+  747  cd Digital Portfolio
+  748  cd path_to_directory/users/ryan-ng/Digital\ Portfolio/CS-I/
+  749  cd /home/ryan-ng/Digital\ Portfolio/CS-I/
+  750  cd index.html
+  751  clear
+  752  cd index.html 
+  753  clear
+  754  cd
+  755  clear
+  756  cd Digital\ Portfolio/
+  757  cd CS-I/
+  758  ls
+  759  emacs
+  760  emacs index.html
+  761  cd Journals/
+  762  cd ..
+  763  emacs index.html
+  764  emacs Journals/
+  765  cd Journals/
+  766  emacs J100
+  767  emacs J1008
+  768  ls
+  769  cd ..
+  770  emacs index.html
+  771  cd Journals/
+  772  ls
+  773  cd ..
+  774  emacs index.html
+  775  cd Journals/
+  776  emacs J1008
+  777  rm J1008
+  778  ls
+  779  emacs Template.html
+  780  cp Template.html J1008.html
+  781  ls
+  782  emacs J1008.html
+  783  ls
+  784  cd ..
+  785  ls
+  786  cd ..
+  787  ls
+  788  cd CS-I/
+  789  cd ..
+  790  ./setPermissions.sh
+  791  cd CS-I/
+  792  cd Journals/
+  793  ls
+  794  emacs J1008.html
+  795  merlin list
+  796  emacs J008.html
+  797  emacs J1008.html
+  798  cd
+  799  cd Merlin
+  800  merlin list
+  801  cd
+  802  cd Merlin
+  803  merlin prepare
+  804  cd Merlin
+  805  cd
+  806  cd Merlin
+  807  M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  808  cd
+  809  cd Merlin
+  810  merlin prepare
+  811  cd M1008-10\ \(01\)\ Basic\ Addition/
+  812  merlin prepare
+  813  ls
+  814  cd ..
+  815  cd
+  816  cd Digital\ Portfolio/
+  817  cd CS-I/
+  818  ls
+  819  cd Journals/
+  820  ls
+  821  emacs J1008.html
+  822  ls
+  823  emacs Template.html
+  824  cp Template.html J1012 
+  825  ls
+  826  [200~./setPermissions.sh
+  827  ./setPermissions.sh
+  828  Template.html ./setPermissions.sh
+  829  emasc Template.html
+  830  emacs Template.html
+  831  emacs J1012.html
+  832  ls
+  833  cd
+  834  ./setPermissions.sh
+  835  cd Digital\ Portfolio/
+  836  cd CS-I/
+  837  cd Journals/
+  838  cp Template.html J1012.html
+  839  ls
+  840  rm J1012
+  841  ls
+  842  rm J100
+  843  ls
+  844  cd
+  845  ls
+  846  cd Digital\ Portfolio/
+  847  ls
+  848  ./setPermissions.sh
+  849  cd CS-I
+  850  cd Journals/
+  851  emacs J1012.html
+  852  cd ..
+  853  ls
+  854  emacs index.html
+  855  cs Journals/
+  856  cd Journals/
+  857  emacs J1012.html
+  858  cd ..
+  859  emacs index.html
+  860  cd Journals/
+  861  emacs J1012.html
+  862  emacs J1012
+  863  rm J1012
+  864  ls
+  865  emacs J1012.html
+  866  fr
+  867  clear
+  868  cd
+  869  clera
+  870  clear
+  871  cd Merlin
+  872  merlin list
+  873  merlin prepare
+  874  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  875  merlin mission accept
+  876  merlin list
+  877  merlin prepare
+  878  ls
+  879  cd C100\ Boolean\ Tables\ \[Evaluation\]/
+  880  ls
+  881  prepare
+  882  merlin prepare
+  883  emacs answers.txt questions.txt
+  884  merlin test --show-invisibles
+  885  emacs answers.txt questions.txt
+  886  merlin test --show-invisibles
+  887  merlin test --show-line-numbers
+  888  [200~emacs answers.txt questions.txt
+  889  ~
+  890  emacs answers.txt questions.txt
+  891  merlin test --show-line-numbers
+  892  merlin submit
+  893  merlin submitcd
+  894  cd
+  895  cd Merlon
+  896  cd Merlin
+  897  merline prepare
+  898  merlin prepare
+  899  merlin preparels
+  900  ls
+  901  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  902  ls
+  903  merlin list
+  904  merlin prepare
+  905  cd C110\ Boolean\ Tables\ \[Evaluation\]/
+  906  cd C110\ Conjunction\ \[Evaluation\]/
+  907  merlin prepare
+  908  emacs answers.txt questions.txt
+  909  merlin test --show-line-numbers
+  910  cd
+  911  cd Merlin
+  912  merlin prepare
+  913  cd 1013-10
+  914  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  915  merlin prepare
+  916  cd C120\ Disjunction\ \[Evaluation
+  917  cd C120\ Disjunction\ \[Evaluation\]/
+  918  merlin prepare
+  919  emacs answers.txt questions.txt
+  920  merlin test --show-line-numbers
+  921  merlin submit
+  922  emacs answers.txt questions.txt
+  923  c
+  924  cd
+  925  cd Merlin
+  926  merlin prepare
+  927  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  928  merlin prepare
+  929  cd C110\ Conjunction\ \[Evaluation\]/
+  930  merlin prepare
+  931  cd
+  932  cd Merlin
+  933  merlin prepare
+  934  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  935  merlin prepare
+  936  cd C130\ Equivalence\ \[Evaluation\]/
+  937  merlin prepare
+  938  emacs answers.txt questions.txt
+  939  merlin test --show-line-numbers
+  940  merlin submit
+  941  cd
+  942  cd merlin
+  943  cd Merlin
+  944  merlin prepare
+  945  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  946  merlin prepare
+  947  cd C140\ Exclusive\ Disjunction\ [Evaluation]/
+  948  merlin prepare
+  949  emacs answers.txt questions.txt
+  950  merlin test --show-line-numbers
+  951  [200~emacs answers.txt questions.txt
+  952  ~
+  953  emacs answers.txt questions.txt
+  954  merlin test --show-line-numbers
+  955  merlin submit
+  956  cd 
+  957  cd Merlin
+  958  merlin prepare
+  959  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  960  merlin prepare
+  961  cd C150\ Implication\ \[Evaluation\]/
+  962  merlin prepare
+  963  emacs answers.txt questions.txt
+  964  merlin test --show-line-numbers
+  965  emacs answers.txt questions.txt
+  966  merlin test --show-line-numbers
+  967  merlin submit
+  968  cd
+  969  cd Merlin
+  970  merline prepare
+  971  merlin prepare
+  972  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  973  merlin perpare
+  974  merlin prepare
+  975  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+  976  merlin prepare
+  977  emacs answers.txt questions.txt
+  978  merlin test --show-line-numbers
+  979  emacs answers.txt questions.txt
+  980  merlin test --show-invisibles
+  981  emacs answers.txt questions.txt
+  982  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  983  cd
+  984  cd Merlin
+  985  merlin prepare
+  986  m 1013-10
+  987  cd  M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  988  merlin prepare
+  989  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+  990  merlin perpare
+  991  merlin prepare
+  992  emacs answers.txt questions.txt
+  993  cd
+  994  cd Merlin
+  995  merlin prepare
+  996  cd M013-10
+  997  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+  998  merlin prepare
+  999  cd C910\ Boolean\ Tables\ Summary\ \[Evaluation\]/
+ 1000  cd C910\ Boolan\ Tables\ Summary\ \[Evaluation\]/
+ 1001  merlin prepare
+ 1002  emacs answers.txt questions.txt
+ 1003  cd
+ 1004  cd Merlin
+ 1005  merlin prepare
+ 1006  cd M013-10
+ 1007  cd M1013-10
+ 1008  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1009  merlin prepare
+ 1010  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+ 1011  merlin prepare
+ 1012  emacs answers.txt questions.txt
+ 1013  emacs --help
+ 1014  emacs answers.txt questions.txt
+ 1015  cd
+ 1016  cd Merlin
+ 1017  merlin prepare
+ 1018  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1019  merlin prepare
+ 1020  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+ 1021  merlin prepare
+ 1022  emacs answers.txt questions.txt
+ 1023  cd
+ 1024  cd Merln
+ 1025  cd Merlin
+ 1026  merlin prepare
+ 1027  M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1028  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1029  merlin prepare
+ 1030  cd C910\ Boolan\ Tables\ Summary\ \[Evaluation\]/
+ 1031  merlin prepare
+ 1032  emacs answers.txt questions.txt
+ 1033  cd
+ 1034  cd Merlin
+ 1035  merlin prepare
+ 1036  M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1037  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1038  merlin prepare
+ 1039  cd C110\ Conjunction\ \[Evaluation\]/
+ 1040  emacs answers.txt questions.txt
+ 1041  cd ..
+ 1042  cd C100\ Boolean\ Tables\ \[Evaluation\]/
+ 1043  emacs answers.txt questions.txt
+ 1044  merlin test --show-invisibles
+ 1045  merlin test --show-line-numbers
+ 1046  d 
+ 1047  cd
+ 1048  cd Merlin
+ 1049  merlin prepare
+ 1050  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1051  merlin prepare
+ 1052  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+ 1053  merlin prepare
+ 1054  emacs answers.txt questions.txt
+ 1055  cd ..
+ 1056  cd C910\ Boolan\ Tables\ Summary\ \[Evaluation\]/
+ 1057  emacs answers.txt questions.txt
+ 1058  merlin submit
+ 1059  cd
+ 1060  cd Merlin
+ 1061  merlin prepare
+ 1062  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1063  merlin prepare
+ 1064  cd C900\ Boolean\ Operator\ Summary\ \[Evaluation\]/
+ 1065  merlin prepare
+ 1066  emacs answers.txt questions.txt
+ 1067  merlin submit
+ 1068  cd
+ 1069  cd Merlin
+ 1070  merlin prepare
+ 1071  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1072  merlin prepare
+ 1073  merlin missiom complete
+ 1074  merlin mission complete
+ 1075  cd
+ 1076  cd Merlin
+ 1077  merlin prepare
+ 1078  cd M1013-10\ \(01\)\ Boolean\ Algebra\ Basics/
+ 1079  merlin prepare
+ 1080  cd
+ 1081  cd Digital\ Portfolio/
+ 1082  cd CS-I/
+ 1083  emacs index.html
+ 1084  cd
+ 1085  cd D
+ 1086  cd Digital\ Portfolio/
+ 1087  cd CS-I/
+ 1088  cd Journals/
+ 1089  cp Template.html J1013.html
+ 1090  cd
+ 1091  cd Digital\ Portfolio/
+ 1092  ./setPermissions.sh
+ 1093  cd CS-I/
+ 1094  cd Journals/
+ 1095  emacs J013.html
+ 1096  ls
+ 1097  emacs J1013.html
+ 1098  clear
+ 1099  cd
+ 1100  cd Merlin
+ 1101  merlin prepare
+ 1102  cd M1013-11\ \(01\)\ Boolean\ Canonical/
+ 1103  merlin prepare
+ 1104  merlin mission accept
+ 1105  merlin prepare
+ 1106  cd C900\ Canonical\ Representation\ Summary\ \[Evaluation\]/
+ 1107  merlin prepare
+ 1108  emacs. answers.txt 
+ 1109  emacs answers.txt questions.txt
+ 1110  cd
+ 1111  cd Merlin
+ 1112  merlin prepare
+ 1113  M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1114  cd M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1115  cd
+ 1116  cd Merlin
+ 1117  merlin prepare
+ 1118  cd M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1119  merlin prepare
+ 1120  merlin mission accept
+ 1121  merlin prepare
+ 1122  cd C900\ Law\ of\ DeMorgan\ Summary\ \[Evaluation\]/
+ 1123  merlin prepare
+ 1124  emacs. answers.txt 
+ 1125  emacs answers.txt questions.txt
+ 1126  cd
+ 1127  cd Merlin
+ 1128  merlin prepare
+ 1129  M1013-11\ \(01\)\ Boolean\ Canonical/
+ 1130  cd N1013-11
+ 1131  cd M1013-11\ \(01\)\ Boolean\ Canonical/
+ 1132  merlin prepare
+ 1133  cd C100\ Canonical\ Representation\ \[Evaluation\]/
+ 1134  merlin prepare
+ 1135  emacs.txt answers.txt 
+ 1136  emacs answers.txt questions.txt
+ 1137  merlin test --show-line-numbers
+ 1138  merlin submit
+ 1139  cd ..
+ 1140  merlin prepare
+ 1141  cd C900\ Canonical\ Representation\ Summary\ \[Evaluation\]/
+ 1142  merlin prepare
+ 1143  emacs answers.txt questions.txt
+ 1144  merlin test --show-line-numbers
+ 1145  emacs answers.txt questions.txt
+ 1146  fg 1
+ 1147  merlin submit
+ 1148  emacs answers.txt questions.txt
+ 1149  merlin submit
+ 1150  cd ..
+ 1151  merlin prepare
+ 1152  cd ..
+ 1153  merlin prepare
+ 1154  cd M1013-11\ \(01\)\ Boolean\ Canonical/
+ 1155  merlin mission submit
+ 1156  merlin submit
+ 1157  merlin mission complete
+ 1158  cd ..
+ 1159  merlin prepare
+ 1160  cd M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1161  merlin prepare
+ 1162  cd C900\ Law\ of\ DeMorgan\ Summary\ \[Evaluation\]/
+ 1163  merlin prepare
+ 1164  emacs answers.txt questions.txt
+ 1165  cd ..
+ 1166  merlin prepare
+ 1167  cd C100\ Law\ of\ DeMorgan\ \[Evaluation\]/
+ 1168  emacs answers.txt questions.txt
+ 1169  merlin prepare
+ 1170  emacs answers.txt questions.txt
+ 1171  merlin test --show-line-numbers
+ 1172  emacs answers.txt questions.txt
+ 1173  merlin test --show-line-numbers
+ 1174  merlin submit
+ 1175  cd ..
+ 1176  merlin perpear
+ 1177  merlin prepare
+ 1178  cd M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1179  merlin prepare
+ 1180  cd C900\ Law\ of\ DeMorgan\ Summary\ \[Evaluation\]/
+ 1181  emacs answers.txt questions.txt
+ 1182  merlin submit
+ 1183  cd ..
+ 1184  merlin prepare
+ 1185  cd M1013-1
+ 1186  cd M1013-12\ \(01\)\ Boolean\ DeMorgan/
+ 1187  merlin missiom complete
+ 1188  merlin mission complete
+ 1189  cd ..
+ 1190  merlin prepare
+ 1191  cdd
+ 1192  cd
+ 1193  cd Digital\ Portfolio/
+ 1194  cd CS-I/
+ 1195  cd Journals/
+ 1196  emacs J1013.html 
+ 1197  cd merlin
+ 1198  merlin
+ 1199  cd Merlin
+ 1200  merlin prepare
+ 1201  cd M1004-10\ \(01\)\ Emacs\ Basics/
+ 1202  merlin prepare
+ 1203  merlin mission accept
+ 1204  merlin prepare
+ 1205  cd ..
+ 1206  clear
+ 1207  cd Digital\ Portfolio/
+ 1208  cd CS-I/
+ 1209  emacs index.html
+ 1210  cd Journals/
+ 1211  cp CS-001 Computer Science Reference.html
+ 1212  cp CS-001 ComputerScienceReference.html
+ 1213  cp CS-001ComputerScienceReference.html
+ 1214  cd ..
+ 1215  emacs.html
+ 1216  emacs index.html
+ 1217  emacs Journals/
+ 1218  cd Journals/
+ 1219  cp Template.html CS-001.html
+ 1220  cd ..
+ 1221  emacs index.html
+ 1222  cd ..
+ 1223  ./setPermissions.sh
+ 1224  cd CS-I/
+ 1225  cd Journals/
+ 1226  emacs CS-001.html
+ 1227  cd ..
+ 1228  emacs index.html
+ 1229  cd Journals/
+ 1230  emacs CS-001.html
+ 1231  gf 1
+ 1232  fg 1
+ 1233  clear
+ 1234  ~/amogus
+ 1235  ls
+ 1236  cd priv
+ 1237  cd
+ 1238  s
+ 1239  ls
+ 1240  cd priv
+ 1241  ls
+ 1242  git pull
+ 1243  la
+ 1244  cd
+ 1245  cd priv
+ 1246  touch a.py
+ 1247  emacs a.py
+ 1248  pip install colorama
+ 1249  apt install python3-xyz
+ 1250  python3 -m venv .
+ 1251  pip install colorama
+ 1252  eat your mom
+ 1253  help
+ 1254  clear
+ 1255  cd ..
+ 1256  cd Merlin
+ 1257  merlin prepare
+ 1258  cd M1205-10\ \(01\)\ Function\ Introduction/
+ 1259  merlin prepare
+ 1260  cd ..
+ 1261  merlin prepare
+ 1262  cd..
+ 1263  cd Merlin
+ 1264  merlin prepare
+ 1265  cd M1205-10\ \(01\)\ Function\ Introduction/
+ 1266  merlin prepare
+ 1267  cd C101\ Hello\ \[Swift\]/
+ 1268  merlin prepare
+ 1269  cd
+ 1270  cd Merlin
+ 1271  cd M1205-10\ \(01\)\ Function\ Introduction/
+ 1272  merlin prepare
+ 1273  cd C101\ Hello\ \[Swift\]/
+ 1274  ls
+ 1275  emacs instructions.txt 
+ 1276  cd C101
+ 1277  emacs main.swift 
+ 1278  merlin test
+ 1279  emacs main.swift 
+ 1280  emacs instructions.txt 
+ 1281  emacs main.swift
+ 1282  merlin test
+ 1283  cd ..
+ 1284  cd M1205-10\ \(01\)\ Function\ Introduction/
+ 1285  merlin perpare
+ 1286  merlin prepare
+ 1287  cd C102\ Hello\ Name\ \[Swift\]/
+ 1288  cd in
+ 1289  emacs in
+ 1290  ls
+ 1291  emacs instructions.txt
+ 1292  merlin prepare
+ 1293  ls
+ 1294  emacs instructions.txt 
+ 1295  emacs main.swift 
+ 1296  merlin test
+ 1297  cd ..
+ 1298  cd C103\ Hello\ Greet\ Name\ \[Swift\]/
+ 1299  merlin prepare
+ 1300  ls
+ 1301  emacs instructions.txt 
+ 1302  emacs main.swift 
+ 1303  emacs instructions.txt 
+ 1304  emacs main.swift
+ 1305  merlin test
+ 1306  emacs main.swift
+ 1307  merlin test
+ 1308  emacs main.swift
+ 1309  emcas instructions.txt 
+ 1310  emacs instructions.txt 
+ 1311  merlin prepare
+ 1312  emacs instructions.txt 
+ 1313  emacs main.swift
+ 1314  merlin test
+ 1315  emacs main.swift
+ 1316  emacs instructions.txt 
+ 1317  emacs main.swift
+ 1318  merlin test
+ 1319  emacs main.swift
+ 1320  merlin test
+ 1321  merlin submit
+ 1322  cd ..
+ 1323  cd C102
+ 1324  cd C102\ Hello\ Name\ \[Swift\]/
+ 1325  merlin test
+ 1326  merlin submit
+ 1327  cd ..
+ 1328  cd C101\ Hello\ \[Swift\]/
+ 1329  merlin test
+ 1330  merlin submit
+ 1331  cd ..
+ 1332  merlin prepare
+ 1333  merlin mission complete
+ 1334  cd ..
+ 1335  merlin prepare
+ 1336  cd M1176-10\ \(01\)\ Making\ Change/
+ 1337  merlin prepare
+ 1338  merlin test
+ 1339  ls
+ 1340  cd C101\ Denominations\ \[Swift\]/
+ 1341  ls
+ 1342  emacs main.swift
+ 1343  merlin test
+ 1344  cd ..
+ 1345  cd C102\ Change\ \[Swift\]/
+ 1346  merlin etst
+ 1347  merlin test
+ 1348  emacs main.swift
+ 1349  cd
+ 1350  ls
+ 1351  clear 
+ 1352  ls 
+ 1353  git clone https://github.com/deshnd/bill ~/bill && chmod +x ~/bill/bill.sh && clear && ~/bill/bill.sh $1
+ 1354  git clone https://github.com/deshnd/bill ~/bill && chmod +x ~/bill/bill.sh && clear && ~/bill/bill.sh 1
+ 1355  ~/bill/bill.sh 1
+ 1356  ls
+ 1357  rm -rf bill
+ 1358  git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && ~/bill-receipt/bill.sh 3 codermerlin missions
+ 1359  clear
+ 1360  [ ! -d ~/bill-receipt ] && git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && ~/bill-receipt/bill.sh 1 codermerlin-missions
+ 1361  if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && ~/bill-receipt/bill.sh "$1" "$2"; else clear && ~/bill-receipt/bill.sh "$1" "$2"; fi 1 test
+ 1362  la
+ 1363  rm -rf bill-receipt/
+ 1364  if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && ~/bill-receipt/bill.sh 8 codermerlin; else clear && ~/bill-receipt/bill.sh 8 codermerlin; fi
+ 1365  if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "Input 1: " input1 && read -p "Input 2: " input2 && ~/bill-receipt/bill.sh $input1 $input2; else clear && read -p "Input 1: " input1 && read -p "Input 2: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi
+ 1366  rm -rf bill-receipt/
+ 1367  rm -rf bill/
+ 1368  if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; else clear && read -p "$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi
+ 1369  clear
+ 1370  if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; else clear && read -p "$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi
+ 1371  trap 'echo "Ctrl-C pressed. Exiting..."; exit 1' SIGINT  if [ ! -d ~/bill-receipt ]; then     git clone https://github.com/deshnd/bill ~/bill-receipt &&     chmod +x ~/bill-receipt/bill.sh &&     clear &&     read -p "\$: " input1 &&     read -p "Reason: " input2 &&     ~/bill-receipt/bill.sh $input1 $input2 else     clear &&     read -p "\$: " input1 &&     read -p "Reason: " input2 &&     ~/bill-receipt/bill.sh $input1 $input2 fi
+ 1372  (trap 'echo "Ctrl-C pressed. Exiting..."; exit 1' SIGINT && if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; else clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi)
+ 1373  (trap 'echo "  Nice try, but did you really think I was stupid enough to let you do that?  "' SIGINT && if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; else clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi)
+ 1374  (trap 'echo "  Nice try, but did you really think I was stupid enough to let you do that?  "' SIGINT && if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $ input1 $input2; else clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi)
+ 1375  rm -rf bill-receipt/
+ 1376  cd bill
+ 1377  cd ..
+ 1378  mv bill-receipt/ a
+ 1379  mv bill/ a
+ 1380  mv b~  a
+ 1381  la
+ 1382  mv b
+ 1383  mv b a
+ 1384  la
+ 1385  (trap 'echo "  nice try  "' SIGINT && if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $ input1 $input2; else clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi
+ 1386  (trap 'echo "  nice try  "' SIGINT && if [ ! -d ~/bill-receipt ]; then git clone https://github.com/deshnd/bill ~/bill-receipt && chmod +x ~/bill-receipt/bill.sh && clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $ input1 $input2; else clear && read -p "\$: " input1 && read -p "Reason: " input2 && ~/bill-receipt/bill.sh $input1 $input2; fi)
+ 1387  history >> /home/eshaan-deshmukh/github/ryanhistory
