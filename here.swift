@@ -1,25 +1,29 @@
 
 // Add your code below
 import Foundation
-func readLines() -> [String] {
-    var lines = [String]()
-    while let line = readLine() {
-        lines += [line]
+
+func readIntegers() -> [Int] {
+    var integers = [Int]()
+    
+    while let input = readLine(), let integer = Int(input) {
+        integers += [integer]
     }
-    return lines
+    
+    return integers
 }
-func printLines(lines: [String]) {
-    for line in lines {
-        print(line)
+
+func printIntegers(integers: [Int]) {
+    for integer in integers {
+        print(integer)
     }
 }
 // Add your code above
 
 // ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩  ⇩
 // DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
-let lines = readLines()
-print(lines.count)
-printLines(lines:lines)
+let integers = readIntegers()
+print(integers.count)
+printIntegers(integers:integers)
 // DO NOT ALTER THE TEXT BETWEEN THESE LINES =========={M{E{R{L{I{N{1}N}I}L}R}E}M}=====================================
 // ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧  ⇧
 
